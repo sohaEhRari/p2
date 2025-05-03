@@ -6,10 +6,9 @@ body {
 }
 header {
     background-color: orange;
-    position: fixed;
     font-family:cursive;
     color: white;
-    padding:10px;
+    padding:none;
     text-align: center;
     position: relative;
 }
